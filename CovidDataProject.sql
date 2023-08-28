@@ -1,3 +1,11 @@
+/*Covid 19 Data Exploration
+
+With date ranging from January 8, 2020 to August 23, 2023.
+
+SQL exploration include: Conversion of data types, Joins, Aggregate Functions, CTE's, Temp table, Creating Views
+*/
+
+
 --Get all data from covid deaths and vaccinations--
 
 select *
